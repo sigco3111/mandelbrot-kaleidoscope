@@ -2,9 +2,27 @@
 
 > 브라우저 전체 화면에 실시간으로 끊임없이 변화하고 회전하는 **만델브로 집합 기반 만화경(Kaleidoscope) 패턴**을 렌더링하는 몽환적인 미디어 아트 웹 애플리케이션
 
-![status](https://img.shields.io/badge/status-MVP-7c3aed?style=flat-square)
+![status](https://img.shields.io/badge/status-Live-22C55E?style=flat-square)
 ![tech](https://img.shields.io/badge/WebGL-GLSL-ff6b35?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)
+
+---
+
+## 🎬 라이브 데모 (Live Demo)
+
+> **👉 [https://mandelbrot-kaleidoscope.vercel.app/](https://mandelbrot-kaleidoscope.vercel.app/)** — 브라우저에서 바로 실행 (WebGL)
+
+| | |
+|---|---|
+| ![Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white) | [![Repo](https://img.shields.io/badge/GitHub-sigco3111%2Fmandelbrot--kaleidoscope-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigco3111/mandelbrot-kaleidoscope) |
+| ![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) | ![Stack](https://img.shields.io/badge/Stack-WebGL%2BGLSL-ff6b35?style=flat-square) |
+| ![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square) | ![Deps](https://img.shields.io/badge/Dependencies-0-9CA3AF?style=flat-square) |
+
+### 🎮 빠른 사용법
+1. 위 데모 링크 클릭 → 브라우저에서 페이지 열기
+2. **마우스 이동** — 패턴의 대칭축과 줌 레벨이 왜곡
+3. **자동 회전** — 시간이 흐르며 천천히 회전 + 줌인/아웃 호흡
+4. **색상 순환** — 사이키델릭 HSL 팔레트가 부드럽게 변환
 
 ---
 
