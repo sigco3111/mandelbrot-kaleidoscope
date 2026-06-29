@@ -112,3 +112,4 @@ MIT License — 자유롭게 사용, 수정, 배포 가능합니다.
 - **프랙탈 수학** — Benoit Mandelbrot (1924–2010)
 - **만화경 좌표 변환** — 전통 폴더블 대칭 기하학
 - **AI 생성** — OpenCode + MiniMax-M3
+- **코딩미션 참조 페이지**: [cokac.com — 코드깎는노인](https://cokac.com/list/announcement/24)
