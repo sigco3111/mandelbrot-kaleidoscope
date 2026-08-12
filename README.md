@@ -10,7 +10,7 @@
 
 ## 🎬 라이브 데모 (Live Demo)
 
-> **👉 [https://mandelbrot-kaleidoscope.vercel.app/](https://mandelbrot-kaleidoscope.vercel.app/)** — 브라우저에서 바로 실행 (WebGL)
+> **👉 [https://sigco3111.github.io/mandelbrot-kaleidoscope/](https://sigco3111.github.io/mandelbrot-kaleidoscope/)** — 브라우저에서 바로 실행 (WebGL)
 
 | | |
 |---|---|
